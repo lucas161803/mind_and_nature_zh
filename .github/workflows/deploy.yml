@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main 
+env:
+  ebook_name: '心智與自然'
 
 jobs:
   job_deploy_website:
