@@ -52,6 +52,6 @@ jobs:
       run: gitbook mobi ./ ./_book/${{ env.ebook_name }}.mobi
     - uses: peaceiris/actions-gh-pages@v3
       env:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        ACTIONS_DEPLOY_KEY: ${{ secrets.GITHUB_TOKEN }}
         PUBLISH_BRANCH: ebooks
         PUBLISH_DIR: ./_book
