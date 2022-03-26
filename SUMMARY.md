@@ -20,3 +20,5 @@
   * [十五、語言通常僅強調交互作用的其中一方](Chapter2/Chapter2-15.md)
   * [十六、「穩定性」和「改變」描述了我們的部分敘述](Chapter2/Chapter2-16.md)
   * [結語](Chapter2/Chapter2-17.md)
+* [第三章 對世界的多重描述](Chapter3/Chapter3-0.md)
+  * [案例一 差異](Chapter3/Chapter3-1.md)
