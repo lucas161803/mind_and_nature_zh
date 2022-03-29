@@ -4,6 +4,5 @@
     "author": "Gregory Bateson",
     "language": "zh-tw",
     "gitbook": "3.2.3",
-    "isbn": "986-124-059-4",
-    "plugins": ["katex"]
+    "isbn": "986-124-059-4"
 }
