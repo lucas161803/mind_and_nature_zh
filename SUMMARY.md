@@ -22,3 +22,8 @@
   * [結語](Chapter2/Chapter2-17.md)
 * [第三章 對世界的多重描述](Chapter3/Chapter3-0.md)
   * [案例一 差異](Chapter3/Chapter3-1.md)
+  * [案例二 雙眼視覺](Chapter3/Chapter3-2.md)
+  * [案例三 冥王星](Chapter3/Chapter3-3.md)
+  * [案例四 突觸的加成作用](Chapter3/Chapter3-4.md)
+  * [案例五 幻想的匕首](Chapter3/Chapter3-5.md)
+  * [案例六 同義語言](Chapter3/Chapter3-6.md)
