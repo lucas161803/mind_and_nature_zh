@@ -27,3 +27,8 @@
   * [案例四 突觸的加成作用](Chapter3/Chapter3-4.md)
   * [案例五 幻想的匕首](Chapter3/Chapter3-5.md)
   * [案例六 同義語言](Chapter3/Chapter3-6.md)
+  * [案例七 兩性](Chapter3/Chapter3-7.md)
+  * [案例八 節奏與波紋現象](Chapter3/Chapter3-8.md)
+  * [案例九「描述」、「套套選輯」及「解釋」](Chapter3/Chapter3-9.md)
+  * [人類用兩種語言來思考](Chapter3/Chapter3-10.md)
+  * [結語](Chapter3/Chapter3-11.md)
