@@ -32,3 +32,6 @@
   * [案例九「描述」、「套套選輯」及「解釋」](Chapter3/Chapter3-9.md)
   * [人類用兩種語言來思考](Chapter3/Chapter3-10.md)
   * [結語](Chapter3/Chapter3-11.md)
+* [第四章 心智過程的判準](Chapter4/Chapter4-0.md)
+  * [判準一 心智是產生互動的各部分或成分的集合](Chapter4/Chapter4-1.md)
+  * [判準二 心智中各個部分的互動,是由差異所引發的](Chapter4/Chapter4-2.md)
